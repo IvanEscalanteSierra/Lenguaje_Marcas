@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE carta [
+<!ELEMENT carta (to,from,heading,body)>
+<!ELEMENT para (#PCDATA)>
+<!ELEMENT de (#PCDATA)>
+<!ELEMENT encabezado (#PCDATA)>
+<!ELEMENT cuerpo (#PCDATA)>
+]>
+<carta>
+<para>Ismael</para>
+<de>Iván</de>
+<encabezado>Recordatorio</encabezado>
+<cuerpo>Me has estrellado el coche y me lo vas a pagar.</cuerpo>
+</carta>

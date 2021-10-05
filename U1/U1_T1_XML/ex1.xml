@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Torneo>
+
+    <Nombre> Torneo Fired Up </Nombre>
+
+    <Fecha>
+
+        <Apertura>29/09/21 9:00 AM</Apertura>
+        <Cierre>29/09/21 14:00 PM</Cierre>
+
+    </Fecha>
+
+    <Partidos>
+
+        <Partido1>
+            <Tenista1>
+                <Nombre> Iván Escalante </Nombre>
+                <Edad> 20 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Eduardo Manostijeras </Nombre>
+                <Edad> 29 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 09:15 AM</Inicio>
+                <Final>29/09/21 10:15 AM</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1> Iván= 4 Eduardo= 6 </Set1>
+                <Set2> Iván= 6 Eduardo= 2 </Set2>
+                <Set3> Iván= 6 Eduardo= 4 </Set3>
+            </Resutados>
+
+
+        </Partido1>
+
+        <Partido2>
+            <Tenista1>
+                <Nombre> Rafael Nadal </Nombre>
+                <Edad> 32 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Pedro Percebe </Nombre>
+                <Edad> 28 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 09:15 AM</Inicio>
+                <Final>29/09/21 10:15 AM</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1> Rafael = 6 Pedro = 1 </Set1>
+                <Set2> Rafael = 5 Pedro = 6 </Set2>
+                <Set3> Rafael = 6 Pedro = 4 </Set3>
+            </Resutados>
+
+
+        </Partido2>
+
+        <Partido3>
+            <Tenista1>
+                <Nombre>Bob Esponjas</Nombre>
+                <Edad> 18 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre>Antonio Banderas </Nombre>
+                <Edad> 40 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 10:15 AM</Inicio>
+                <Final>29/09/21 11:15 AM</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Bob = 5 Antonio = 6</Set1>
+                <Set2>BoB = 6 Antonio = 5</Set2>
+                <Set3>Bob = 6 Antonio = 5</Set3>
+            </Resutados>
+
+
+        </Partido3>
+
+        <Partido4>
+            <Tenista1>
+                <Nombre> Roger Federer </Nombre>
+                <Edad> 43 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Tom Holland </Nombre>
+                <Edad> 24 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 10:15</Inicio>
+                <Final>29/09/21 11:15</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Roger = 6 Tom = 4</Set1>
+                <Set2>Roger = 3 Tom = 6</Set2>
+                <Set3>Roger = 5 Tom = 6</Set3>
+            </Resutados>
+
+
+        </Partido4>
+
+        <Partido5>
+            <Tenista1>
+                <Nombre> Solomeo Paredes </Nombre>
+                <Edad> 27 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Alicia Maravillosa </Nombre>
+                <Edad> 25 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 11:15</Inicio>
+                <Final>29/09/21 12:15</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Solomeo = 6 Alicia = 4</Set1>
+                <Set2>Solomeo = 3 Alicia = 6</Set2>
+                <Set3>Solomeo = 1 Alicia = 6</Set3>
+            </Resutados>
+
+
+        </Partido5>
+
+        <Partido6>
+            <Tenista1>
+                <Nombre> Iván Escalante </Nombre>
+                <Edad> 20 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Rafael Nadal </Nombre>
+                <Edad> 32 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 11:15</Inicio>
+                <Final>29/09/21 12:15</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Iván = 6 Rafael = 5</Set1>
+                <Set2>Iván = 2 Rafael = 6</Set2>
+                <Set3>Iván = 6 Rafael = 5</Set3>
+            </Resutados>
+
+
+        </Partido6>
+
+        <Partido7>
+            <Tenista1>
+                <Nombre> Pedro Percebe </Nombre>
+                <Edad> 28 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Bob Esponjas </Nombre>
+                <Edad> 18 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 12:15</Inicio>
+                <Final>29/09/21 13:15</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Pedro = 3 Bob = 6</Set1>
+                <Set2>Pedro = 6 Bob = 4</Set2>
+                <Set3>Pedro = 1 Bob = 6</Set3>
+            </Resutados>
+
+
+        </Partido7>
+
+        <Partido8>
+            <Tenista1>
+                <Nombre> Eduardo Manostijeras </Nombre>
+                <Edad> 29 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Antonio Banderas </Nombre>
+                <Edad> 40 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 12:15</Inicio>
+                <Final>29/09/21 13:15</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Eduardo = 5 Antonio = 6</Set1>
+                <Set2>Eduardo = 6 Antonio = 4</Set2>
+                <Set3>Eduardo = 5 Antonio = 6</Set3>
+            </Resutados>
+
+
+        </Partido8>
+
+        <Partido9>
+            <Tenista1>
+                <Nombre> Roger Federer </Nombre>
+                <Edad> 43 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Solomeo Paredes </Nombre>
+                <Edad> 27 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 13:15</Inicio>
+                <Final>29/09/21 13:45</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Roger = 6 Solomeo = 4</Set1>
+                <Set2>Roger = 4 Solomeo = 6</Set2>
+                <Set3>Roger = 3 Solomeo = 6</Set3>
+            </Resutados>
+
+
+        </Partido9>
+
+        <Partido10>
+            <Tenista1>
+                <Nombre> Tom Holland </Nombre>
+                <Edad> 24 </Edad>
+            </Tenista1>
+
+            <Tenista2>
+                <Nombre> Alicia Maravillosa </Nombre>
+                <Edad> 25 </Edad>
+            </Tenista2>
+
+            <Fecha>
+                <Inicio>29/09/21 13:15</Inicio>
+                <Final>29/09/21 13:45</Final>
+            </Fecha>
+
+            <Resutados>
+                <Set1>Tom = 2 Alicia = 6</Set1>
+                <Set2>Tom = 6 Alicia = 4</Set2>
+                <Set3>Tom = 6 Alicia = 5</Set3>
+            </Resutados>
+
+
+        </Partido10>
+
+
+    </Partidos>
+
+</Torneo>

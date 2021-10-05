@@ -1,0 +1,17 @@
+    <norte /home/iescalante/Escritorio/Carpeta XML/<norte>.xml>
+<fondo /home/iescalante/Escritorio/Carpeta XML/<fondo>.xml>
+<preferencia /home/iescalante/Escritorio/Carpeta XML/<preferencia>.xml>
+<sur /home/iescalante/Escritorio/Carpeta XML/<sur>.xml>
+
+<espectadores>
+
+<público.norte>Ismael</público.norte>
+<público.norte>Manuel</público.norte>
+<público.sur>Alfonso</público.sur>
+<público.sur>AJ</público.sur>
+<público.preferencia>Iván</público.preferencia>
+<público.preferencia>Rafael</público.preferencia>
+<público.fondo>Antonio</público.fondo>
+<público.fondo>Pedro</público.fondo>
+
+</espectadores>
