@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio_4</title>
+</head>
+
+<body>
+
+    <fieldset style="border-color: blue;width: 600px;">
+        <!--Realizamos un fieldset que englobe todo el ejercicio-->
+        <h1>Reservation Request</h1>
+        <form>
+
+            <fieldset>
+                <legend style="color: blue;"> <b>General information:</b></legend>
+                <!--El legend es para la frase de arriba del recuadro.-->
+                <table>
+                    <tr>
+                        <td><label for="Arrival Date">Arrival Date:</label></td>
+                        <td> <input type="date"></td>
+                    </tr>
+                    <tr>
+                        <td> <label for="Nights">Nights:</label></td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td> Adults:</td>
+                        <td><select>
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                            </select></td>
+                    </tr>
+
+                    <tr>
+                        <td>Children:</td>
+                        <td> <select>
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <!-- Aquí hemos resuelto todos los inputs que nos pedía el ejercicio-->
+                </table>
+
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend style="color: blue;"> <b>Preferences</b></legend>
+                <table>
+                    <tr>
+                        <td>Room Type:</td>
+                        <td> <input type="radio"> Standard </td>
+                        <td><input type="radio"> Business</td>
+                        <td><input type="radio"> Suite</td>
+                    </tr>
+
+                    <tr>
+                        <td>Bed Type:</td>
+                        <td> <input type="radio"> King </td>
+                        <td><input type="radio"> Double</td>
+                    </tr>
+
+                    <tr>
+                        <td><input type="checkbox">Smoking</td>
+                    </tr>
+                </table>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend style="color: blue;"><b>Contact Information</b></legend>
+                <table>
+
+                    <tr>
+                        <td>Name:</td>
+                        <td><input type="text" name="Texto"></td>
+                    </tr>
+                    <tr>
+                        <td>Email:</td>
+                        <td><input type="email" name="email"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Phone:</td>
+                        <td><input type="tel" name="tlf"></td>
+                    </tr>
+                </table>
+
+            </fieldset>
+            <br>
+
+            <table>
+                <tr>
+                    <td><input style="width: 5cm;" type="submit" value="Submit Reservation"></td>
+                    <td style="width: 1cm;"></td>
+                    <td><input style="width: 5cm;" type="reset" value="Clear"></td>
+                </tr>
+            </table>
+            <!-- Esta pequeña tabla sirve para los inputs de Submit y Clear-->
+        </form>
+    </fieldset>
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio_2</title>
+</head>
+
+<body>
+    <table style="border-collapse: collapse; width: 600px; height: 200px;">
+
+        <tbody style="border: 1px solid;">
+
+            <tr style="border: 1px solid;">
+                <th style="text-align: center; background-color: gray;" colspan="4">Realiza la siguiente tabla</th>
+            </tr>
+            <tr style="text-align: center;">
+                <td style="border: 1px solid;">Columna 1</td>
+                <td style="border: 1px solid;">Columna 2</td>
+                <td colspan="2" style="border: 1px solid;">Columna 3</td>
+            </tr>
+            <!-- Realizamos las 2 primeras filas de la tabla con sus respectivas etiquetas-->
+            <tr style="text-align: center;">
+                <td style="border: 1px solid;" rowspan="3">Datos 1</td>
+                <td style="border: 1px solid;" rowspan="3">Datos 2</td>
+                <td style="border: 1px solid;">Datos</td>
+                <td style="border: 1px solid;">Más Datos</td>
+            </tr>
+            <!-- La segunda fila con ciertos rowspans-->
+            <tr>
+                <td colspan="2" rowspan="2" style=" text-align: center;">Cortocircuito</td>
+            </tr>
+            <!-- Parte de la 3a fila y única sección que no he podido conseguir ya que me he hecho
+    un poco un lío ya que no aparecía correctamente a pesar de estar bien representado-->
+            <tr></tr>
+            <tr style="text-align: center;border: 1px solid;">
+                <td style="border: 1px solid;">1, 2. 3</td>
+                <td rowspan="2" style="border: 1px solid;"> esto es lo</td>
+            </tr>
+
+            <tr style="text-align: center;border: 1px solid;">
+                <td style="border: 1px solid;">4, 5, 6</td>
+                <td style="border: 1px solid;">que</td>
+                <td style="border: 1px solid;">hay</td>
+            </tr>
+            <!-- Lsa últimas filas son lo mismo, algunas celdas y rowspans.-->
+        </tbody>
+    </table>
+</body>
+
+</html>
